@@ -1,0 +1,6 @@
+# move this code to .env
+# Langfuse Docker
+LANGFUSE_SECRET_KEY="sk-lf-b23dff97-6f1f-43b5-aaa8-f865c181e596"
+LANGFUSE_PUBLIC_KEY="pk-lf-0db05779-1b7a-4d58-9c4d-8b0b14828810"
+LANGFUSE_BASE_URL="http://localhost:3000"
+LANGFUSE_TRACING_ENVIRONMENT = "production"
